@@ -1,0 +1,9 @@
+1582279795
+FindZLIB.cmake: 0ec128c2f97a3a6d7e800d3204e5c94f
+conaninfo.txt: 214b8fe5646649075bb0c4ba94b1b6e9
+include/zconf.h: e5b18c411a45727e543081145b983bbc
+include/zlib.h: 0338828e9d00c94645648b1517108324
+lib/pkgconfig/zlib.pc: 4f3e14f6f63848a9585ee4d529bd2770
+lib/zlib.lib: 806275cafaa1e316de6665ba2f4b65bf
+licenses/LICENSE: 1af2e5353c16e930435fff550f827c3e
+zlib.pc: 4f3e14f6f63848a9585ee4d529bd2770
